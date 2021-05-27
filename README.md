@@ -12,7 +12,7 @@ The files *_pre-process.py are used to pre-process the data
 The process handling the manual classification of the data for Wafa is done in wafa_svm_nb.py
 
 ## Naive Bayes & SVM (Wafa)
-Done in 
+Done in wafa_svm_nb.py
 
 ## NMF (The Palestine Chronicle)
-Done in 
+Done in palchr_nmf.py
