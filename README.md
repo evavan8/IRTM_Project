@@ -9,7 +9,7 @@ The files *_scrape.py are used to scrape the data
 The files *_pre-process.py are used to pre-process the data
 
 ## Manual classification for Wafa
-The process handling the manual classification of the data for Wafa is done in wafa_svm_nb.py
+The process of handling the manual classification of the data for Wafa is done in wafa_svm_nb.py
 
 ## Naive Bayes & SVM (Wafa)
 Done in wafa_svm_nb.py
